@@ -502,7 +502,7 @@ RemoveImap(1786931635)    -- Lemoyne -- Caliga Hall -- Grey Estates -- Burnt out
 --#### New Hanover ####--
 --## Valentine ##-- 
 RequestImap(-661560211)   -- New Hanover -- Valentine -- Barrels Everywhere?
-RequestImap(1202020135)   -- New Hanover -- Valentine -- Blank Banners across mainstreet
+RemoveImap(1202020135)    -- New Hanover -- Valentine -- Blank Banners across mainstreet -- Valentine White Flag / Banner
 RequestImap(-892659042)   -- New Hanover -- Valentine -- Leatherworker on west side of encampment
 RequestImap(30201771)     -- New Hanover -- Valentine -- Water Trough?
 RequestImap(-1475403379)  -- New Hanover -- Valentine -- Fencing at farm
